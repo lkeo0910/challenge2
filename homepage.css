@@ -33,7 +33,6 @@ li a {
     text-decoration: none;
     color: #333; 
     box-sizing: border-box;
-
 }
 
 li a:hover {
@@ -64,4 +63,17 @@ footer {
 
 footer p {
     margin: 0;
+}
+
+.quote {
+    width: 42%; 
+    position: absolute; 
+    left: 0; 
+    margin-left:2%;
+    top: 33%;
+    font-size: 40px;
+    color: #070505;
+    text-shadow: 0px 0px 20px #efa1f5e9;
+    font-weight: bold;
+    white-space: normal;
 }
